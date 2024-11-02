@@ -8,3 +8,6 @@
 [submodule "ggh4x"]
 	path = ggh4x
 	url = https://github.com/teunbrand/ggh4x
+[submodule "legendry"]
+	path = legendry
+	url = https://github.com/teunbrand/legendry
